@@ -1,31 +1,9 @@
 # DIO-DESAFIO-AZURE-DATABRICKS-01
 Desafio é "Criando um Monitoramento de Custos no Data Factory"
 
-## Criando uma Instância do Data Fabric no Azure
- 
- Este guia mostra como criar uma instância do Microsoft Fabric e criar um monitoramento de custos da instância.
- 
- ---
- 
- ## Limitações
- 
- - Não foi aberto a conta na Microsoft Azure gratuita porque o usuário usou em datas anteriores para a obtenção da certificação AI-900.Criar um Workspace no Microsoft Fabric
-Acesse o portal do Azure.
----
- 
- ## Criar um Workspace no Microsoft Fabric
- 
- 1. Acesse o [portal do Azure](https://portal.azure.com).
- 2. No menu lateral, clique em Criar um recurso.
- 3. Pesquise por Microsoft Fabric e selecione a opção correta.
- 4. Clique em Criar e preencha os detalhes necessários:
+![image](https://github.com/user-attachments/assets/98842a82-6654-4193-aea1-da1dbf0c1676)
 
-  - Nome do workspace.
-  - Assinatura e grupo de recursos.
-  - Região.
- 5. Clique em Revisar + Criar, depois em Criar.
-
-![Criar recurso no Azure](https://learn.microsoft.com/en-us/azure/includes/media/cloud-shell-try-it/create-a-resource.png)
+ 
 ## Criar Monitoramento de Custos no Azure Data Factory
 
 ## Acessar o Cost Management
@@ -43,6 +21,10 @@ Acesse o portal do Azure.
  3. Localize seu recurso de Data Factory na lista
 
 ## Criar um Dashboard de Custos
+
+
+![image](https://github.com/user-attachments/assets/2230f7de-a7b1-4e68-ab3d-d9927e01a071)
+
  1. No topo do portal, clique em Dashboard
  2. Clique em + Novo dashboard
  3. Adicione um tile do tipo Gráfico de custos
